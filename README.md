@@ -1,2 +1,2 @@
-# SHPE
-These are the programs used for our NJIT chapter website and membership data.
+# Shpe Attendance Tracker
+This simple python script was used to track the activity of members attending our organization's events. 
